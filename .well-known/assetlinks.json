@@ -1,0 +1,12 @@
+﻿[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cmasealand.cmasealand_ui",
+      "sha256_cert_fingerprints": [
+        "D6:8A:44:46:AB:D3:3E:8A:22:55:6A:49:08:4C:F6:3D:06:2E:98:BB:CA:68:B8:AC:85:1D:0A:79:BC:81:37:4D"
+      ]
+    }
+  }
+]
