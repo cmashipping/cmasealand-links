@@ -8,12 +8,12 @@
   "redirects": [
     {
       "source": "/invite/:code",
-      "destination": "https://YOUR_WEB_APP_HOST/#/login?invite=:code",
+      "destination": "https://cmaapp-f36b5.web.app/#/login?invite=:code",
       "permanent": false
     },
     {
       "source": "/invite",
-      "destination": "https://YOUR_WEB_APP_HOST/#/login",
+      "destination": "https://cmaapp-f36b5.web.app/#/login",
       "permanent": false
     }
   ]
